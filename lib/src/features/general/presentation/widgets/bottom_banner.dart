@@ -1,5 +1,4 @@
 import 'package:easy_localization/easy_localization.dart';
-import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:portfolio/src/common/widgets/selection_area.dart';
@@ -54,19 +53,19 @@ class _BottomBannerState extends ConsumerState<BottomBanner> {
                   TextSpan(
                     text: "${tr(LocaleKeys.bottomBanner_message)} ",
                   ),
-                  TextSpan(
-                    style: const TextStyle(
-                      decoration: TextDecoration.underline,
-                    ),
-                    recognizer: TapGestureRecognizer()
-                      ..onTap = () {
-                        _onTap(
-                          context,
-                          url: tr(LocaleKeys.bottomBanner_linkUrl),
-                        );
-                      },
-                    text: tr(LocaleKeys.bottomBanner_displayLink),
-                  ),
+                  // TextSpan(
+                  //   style: const TextStyle(
+                  //     decoration: TextDecoration.underline,
+                  //   ),
+                  //   recognizer: TapGestureRecognizer()
+                  //     ..onTap = () {
+                  //       _onTap(
+                  //         context,
+                  //         url: tr(LocaleKeys.bottomBanner_linkUrl),
+                  //       );
+                  //     },
+                  //   text: tr(LocaleKeys.bottomBanner_displayLink),
+                  // ),
                 ],
               ),
             ),

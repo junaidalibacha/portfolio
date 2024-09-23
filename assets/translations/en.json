@@ -1,43 +1,35 @@
 {
-    "name": "Aladdine Abdou",
+    "name": "Junaid Ali",
     "description": "Mobile App Developer",
-    "subDescription": "Flutter & Python Enthusiast",
+    "subDescription": "Flutter & Dart Enthusiast",
     "contacts": [
         {
             "tooltip": "Github",
-            "url": "https://github.com/AladdineDev",
+            "url": "https://github.com/junaidalibacha",
             "icon": {
                 "codePoint": "0xefb7",
                 "fontFamily": "FontAwesome"
             }
         },
         {
-            "tooltip": "Twitter",
-            "url": "https://twitter.com/AladdineDev",
-            "icon": {
-                "codePoint": "0xf0ea",
-                "fontFamily": "FontAwesome"
-            }
-        },
-        {
             "tooltip": "LinkedIn",
-            "url": "https://www.linkedin.com/in/aladdine-dev",
+            "url": "https://www.linkedin.com/in/junaidalibacha",
             "icon": {
                 "codePoint": "0xeffb",
                 "fontFamily": "FontAwesome"
             }
         },
         {
-            "tooltip": "aladdine.abdou@gmail.com",
-            "url": "mailto:aladdine.abdou@gmail.com",
+            "tooltip": "junaidalibacha@gmail",
+            "url": "mailto:junaidalibacha@gmail",
             "icon": {
                 "codePoint": "0xeaad",
                 "fontFamily": "FontAwesome"
             }
         },
         {
-            "tooltip": "+33 7 82 54 34 70",
-            "url": "tel:+33782543470",
+            "tooltip": "+92 344 9868356",
+            "url": "tel:+923449868356",
             "icon": {
                 "codePoint": "0xecbb",
                 "fontFamily": "FontAwesome"
@@ -47,90 +39,23 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1OE74YmjkUVIK3DLas7Ze-264PbZ199Zk/view?usp=sharing"
         },
         {
             "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/13t62MynE9GavlyrtHNM1ShdkdJT0bc0B/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1OE74YmjkUVIK3DLas7Ze-264PbZ199Zk/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Hi! I'm Aladdine, an apprentice developer and fourth-year student at ESGI Paris, specializing in mobile and IoT development. Passionate about the mobile ecosystem, I combine my studies with my practical experience to build intuitive and feature-rich applications.\nI aspire to put my skills to work on inspiring and challenging projects.",
+    "aboutDescription": "Welcome to my portfolio! I'm JUNAID Ali, a seasoned Flutter Application Developer with a passion for crafting intuitive, high-performance mobile experiences. With extensive expertise in Flutter, Dart, and advanced state management, I deliver seamless, user-centric solutions that drive business growth.\nIn my 3+ years of experience, I've developed a unique blend of technical skills and creative vision, allowing me to tackle complex projects and transform ideas into engaging, scalable applications",
     "experiences": [
         {
-            "role": "Mobile App Developer",
-            "company": "Walt Disney Imagineering",
-            "description": "Development of an offline-first mobile snagging application for Disneyland Paris, streamlining information gathering for technical experts in the field and enhancing communication with maintenance services for problem-solving.",
-            "isPresent": false,
-            "startYear": 2022,
-            "endYear": 2023,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                },
-                {
-                    "name": "Django",
-                    "icon": {
-                        "codePoint": "0xeee7",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/python.svg"
-                    }
-                },
-                {
-                    "name": "PostgreSQL",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/postgresql.svg"
-                    }
-                },
-                {
-                    "name": "SQLite",
-                    "icon": {
-                        "codePoint": "0xe944",
-                        "fontFamily": "OctIcons"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                },
-                {
-                    "name": "AWS",
-                    "icon": {
-                        "codePoint": "0xeed1",
-                        "fontFamily": "BoxIcons"
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://sites.disney.com/waltdisneyimagineering/",
-                    "display": "Walt Disney Imagineering"
-                }
-            ]
-        },
-        {
-            "role": "Mobile App Developer",
-            "company": "Solutions Multi Techniques",
-            "description": "Development of a Progressive Web App for security system technicians, enabling them to generate comprehensive PDF quotes. This allows for the immediate delivery of quotes to clients after their visit, thereby increasing the conversion rate.",
-            "startYear": 2022,
-            "startMonth": 1,
-            "endYear": 2022,
-            "endMonth": 2,
+            "role": "Mobile App Developer (Remote)",
+            "company": "InnovatedY",
+            "description": "As a Senior Flutter Developer & App Publisher, I worked remotely with a global team to design, develop, and deliver high-quality mobile applications using Flutter. Additionally, I managed app publishing processes across multiple app stores, ensuring seamless release and maintenance of mobile products.",
+            "isPresent": true,
+            "startYear": 2023,
+            "startMonth": 7,
+            "endYear": 2024,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -149,54 +74,138 @@
                     "icon": {
                         "assetName": "assets/icons/other/firebase.svg"
                     }
-                }
-            ]
-        },
-        {
-            "role": "Web Developer",
-            "company": "Association FAIRE",
-            "description": "Development of the association's website, in collaboration with a group of developers. It provides visitors with the opportunity to learn more about the association and become members.\nTo date, the website has attracted over 10,000 visits.",
-            "startYear": 2021,
-            "startMonth": 5,
-            "endYear": 2021,
-            "endMonth": 6,
-            "technologies": [
-                {
-                    "name": "HTML",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/html-5.svg"
-                    }
                 },
                 {
-                    "name": "CSS",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/css3.svg"
-                    }
+                    "name": "AppStore Connect"
                 },
                 {
-                    "name": "Javascript",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/javascript.svg"
-                    }
+                    "name": "GooglePlay Console"
                 },
                 {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
+                    "name": "AppGallery Connect"
                 }
             ],
             "links": [
                 {
-                    "url": "https://www.association-faire.fr",
-                    "display": "Association FAIRE"
+                    "url": "https://www.innovatedy.com/",
+                    "display": "InnovatedY"
+                }
+            ]
+        },
+        {
+            "role": "Flutter Developer",
+            "company": "Metasense Technologies",
+            "description": "As a skilled Flutter Developer, I played a key role in designing, developing, and maintaining mobile applications for Metasense Technologies. Utilizing expertise in Flutter and Dart, I successfully delivered high-quality mobile solutions, ensuring seamless user experiences.",
+            "startYear": 2023,
+            "startMonth": 5,
+            "endYear": 2024,
+            "endMonth": 5,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Rest API's"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.linkedin.com/company/metasense-technologies/",
+                    "display": "Metasense Technologies"
+                }
+            ]
+        },
+        {
+            "role": "Flutter Developer",
+            "company": "Software Development Hub (SDH)",
+            "description": "At Software Development Hub, I leveraged my expertise in Flutter and Dart to design, develop, and deploy scalable solutions that exceeded client expectations.",
+            "startYear": 2023,
+            "startMonth": 1,
+            "endYear": 2023,
+            "endMonth": 5,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Rest API's"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.linkedin.com/company/sdhoﬃcial/",
+                    "display": "Software Development Hub (SDH)"
+                }
+            ]
+        },
+        {
+            "role": "Flutter Front-end Developer",
+            "company": "AppSpot Software Solution",
+            "description": "As a Front-end Flutter Developer at AppSpot Software Solution, I played a pivotal role in designing and implementing visually stunning and user-friendly mobile interfaces for Android and iOS platforms. Utilizing expertise in design tools and Flutter, I bridged the gap between design and development, delivering high-fidelity mobile applications. Translated designs from Figma and Adobe XD into functional Flutter code. Implemented responsive and adaptive layouts for diverse screen sizes. Collaborated with designers to ensure design integrity and consistency",
+            "startYear": 2022,
+            "startMonth": 1,
+            "endYear": 2023,
+            "endMonth": 1,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Flutter Widgets"
+                },
+                {
+                    "name": "Material Design & Cupertino"
+                },
+                {
+                    "name": "Responsive and Adaptive layouts"
+                },
+                {
+                    "name": "Figma & Adobe XD"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.linkedin.com/company/app-spot/",
+                    "display": "AppSpot Software Solution"
                 }
             ]
         }
@@ -204,15 +213,9 @@
     "present": "Present",
     "projects": [
         {
-            "name": "Portfolio",
-            "description": "This open source project allows anyone to have an online portfolio in less than 10 minutes. It follows a riverpod-based architecture, using a feature-first approach for its structure. It is fully responsive and supports multiple themes as well as multiple languages.",
-            "url": "https://github.com/AladdineDev/portfolio#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/portfolio.png",
+            "name": "FlashSend",
+            "description": "FlashSend is a fast, secure and convenient money transfer app. It allows users to send money to their family and friends in just a few clicks, at low rates and without hidden fees.",
+            "screenshotPath": "assets/images/flashsend_android.png",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -225,69 +228,53 @@
                     "icon": {
                         "assetName": "assets/icons/other/dart.svg"
                     }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Riverpod State-management",
+                    "icon": {
+                        "assetName": "assets/icons/other/riverpod.svg"
+                    }
+                },
+                {
+                    "name": "Riverpod Architecture"
+                },
+                {
+                    "name": "Rest API's"
+                },
+                {
+                    "name": "Local storage"
+                },
+                {
+                    "name": "Google Maps"
+                },
+                {
+                    "name": "Localizations"
+                },
+                {
+                    "name": "Navigator 2.0"
                 }
             ],
             "links": [
                 {
-                    "url": "https://brittanychiang.com",
-                    "display": "Inspired by Brittany Chiang"
+                    "url": "https://play.google.com/store/apps/details?id=net.flashsd.flashsend",
+                    "display": "PlayStore"
+                },
+                {
+                    "url": "https://apps.apple.com/pk/app/flashsend/id6446861546",
+                    "display": "AppStore"
                 }
             ]
         },
         {
-            "name": "Learn Flow API",
-            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This REST API serves as an interface for the project's various clients, including Android, iOS, and Web. It notably offers authentication capabilities with JWT.",
-            "url": "https://github.com/AladdineDev/learnflow-api#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/learnflow-api.png",
-            "technologies": [
-                {
-                    "name": "Node.js",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/nodejs.svg"
-                    }
-                },
-                {
-                    "name": "Express",
-                    "icon": {
-                        "assetName": "assets/icons/other/express-js.svg",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "TypeScript",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/typescript.svg"
-                    }
-                },
-                {
-                    "name": "MongoDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mongodb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "Learn Flow Backoffice",
-            "description": "This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
-            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "name": "Fluently AI",
+            "description": "Fluently AI is your dedicated companion for mastering English through immersive, real-life practice English conversations, all while fine-tuning your pronunciation for impeccable fluency. Traditional language learning methods often fall short when it comes to cultivating fluency. Fluently AI revolutionizes language acquisition with its cutting-edge AI-driven conversations. Imagine having the power to learn English in an environment that mimics real-life interactions. Fluently AI understands that practicing English is the key to proficiency.",
+            "screenshotPath": "assets/images/fluently-android.png",
             "technologies": [
                 {
                     "name": "Flutter",
@@ -300,89 +287,111 @@
                     "icon": {
                         "assetName": "assets/icons/other/dart.svg"
                     }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Provider State-management"
+                },
+                {
+                    "name": "In-App Purchases"
+                },
+                {
+                    "name": "OpenAI Implementation"
+                },
+                {
+                    "name": "Google TTS & STT"
+                },
+                {
+                    "name": "Navigator 2.0"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.metasense.fluently",
+                    "display": "PlayStore"
+                },
+                {
+                    "url": "https://apps.apple.com/pk/app/fluently-ai/id6446021804",
+                    "display": "AppStore"
                 }
             ]
         },
         {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-frais.png",
+            "name": "Loving Legacy",
+            "description": "Loving Legacy is a comprehensive caregiving app designed to empower families, especially those in rural communities in Montana, to provide the best care for their senior and elderly loved ones.",
+            "screenshotPath": "assets/images/L_L-android.png",
             "technologies": [
                 {
-                    "name": "Symfony",
+                    "name": "Flutter",
                     "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
+                        "assetName": "assets/icons/software-development/flutter.svg"
                     }
                 },
                 {
-                    "name": "PHP",
+                    "name": "Dart",
                     "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
+                        "assetName": "assets/icons/other/dart.svg"
                     }
                 },
                 {
-                    "name": "Bootstrap",
+                    "name": "Firebase",
                     "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
+                        "assetName": "assets/icons/other/firebase.svg"
                     }
                 },
                 {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
+                    "name": "GetX State-management"
                 },
                 {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
+                    "name": "In-App Purchases"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.metasense.loving_legacy",
+                    "display": "PlayStore"
                 }
             ]
         },
         {
-            "name": "GSB-RV-Visiteur-Serveur",
-            "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
+            "name": "Sehr",
+            "description": "Project by SOBER Technologies Int. Islamabad. Transforming the lives of individuals in Pakistan and Empowering the nation's economy",
+            "screenshotPath": "assets/images/sehr-android.png",
             "technologies": [
                 {
-                    "name": "Flask",
+                    "name": "Flutter",
                     "icon": {
-                        "assetName": "assets/icons/software-development/flask.svg",
-                        "color": "0xffffffff"
+                        "assetName": "assets/icons/software-development/flutter.svg"
                     }
                 },
                 {
-                    "name": "Python",
+                    "name": "Dart",
                     "icon": {
-                        "assetName": "assets/icons/software-development/python.svg"
+                        "assetName": "assets/icons/other/dart.svg"
                     }
                 },
                 {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
+                    "name": "Rest API's"
                 },
                 {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
+                    "name": "GetX State-management"
+                },
+                {
+                    "name": "MCV Architecture"
+                },
+                {
+                    "name": "Google Maps"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.sehr.pk",
+                    "display": "PlayStore"
                 }
             ]
         }
@@ -406,7 +415,7 @@
         }
     ],
     "bottomBanner": {
-        "message": "Open source portfolio -",
+        "message": "Thanks to visit",
         "displayLink": "Fork it",
         "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
     },

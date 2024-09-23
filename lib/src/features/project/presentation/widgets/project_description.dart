@@ -25,7 +25,7 @@ class ProjectDescription extends ConsumerWidget {
               style: theme.textTheme.titleMedium
                   ?.copyWith(fontWeight: FontWeight.bold),
             ),
-            const Icon(Icons.open_in_new),
+            if (project.url != null) const Icon(Icons.open_in_new),
           ],
         ),
         gapH8,
