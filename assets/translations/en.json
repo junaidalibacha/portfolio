@@ -39,23 +39,24 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1OE74YmjkUVIK3DLas7Ze-264PbZ199Zk/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1Cs3k_c2hVDAsPn8r56osEyMlQ6bSugVC/view?usp=sharing"
         },
         {
             "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/1OE74YmjkUVIK3DLas7Ze-264PbZ199Zk/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1Cs3k_c2hVDAsPn8r56osEyMlQ6bSugVC/view?usp=sharing"
         }
     ],
-    "aboutDescription": "Welcome to my portfolio! I'm JUNAID Ali, a seasoned Flutter Application Developer with a passion for crafting intuitive, high-performance mobile experiences. With extensive expertise in Flutter, Dart, and advanced state management, I deliver seamless, user-centric solutions that drive business growth.\nIn my 3+ years of experience, I've developed a unique blend of technical skills and creative vision, allowing me to tackle complex projects and transform ideas into engaging, scalable applications",
+    "aboutDescription": "Welcome to my portfolio! I'm JUNAID Ali, a seasoned Flutter Application Developer with a passion for crafting intuitive, high-performance mobile experiences. With extensive expertise in Flutter, Dart, and advanced state management, I deliver seamless, user-centric solutions that drive business growth.\nIn my 4 years of experience, I've developed a unique blend of technical skills and creative vision, allowing me to tackle complex projects and transform ideas into engaging, scalable applications",
     "experiences": [
         {
-            "role": "Mobile App Developer (Remote)",
-            "company": "InnovatedY",
-            "description": "As a Senior Flutter Developer & App Publisher, I worked remotely with a global team to design, develop, and deliver high-quality mobile applications using Flutter. Additionally, I managed app publishing processes across multiple app stores, ensuring seamless release and maintenance of mobile products.",
+            "role": "Flutter Developer (Remote)",
+            "company": "Ogoul Technologies",
+            "description": "Working as a Remote Flutter Developer, delivering high-quality cross-platform mobile applications. Collaborating with distributed teams to implement scalable solutions using Flutter, Dart, and advanced state management. Focusing on creating intuitive UI/UX designs, integrating APIs, and optimizing app performance. Effectively managing tasks in a remote environment, leveraging Agile methodologies and communication tools to ensure seamless collaboration and timely project delivery.",
             "isPresent": true,
-            "startYear": 2023,
-            "startMonth": 7,
+            "startYear": 2024,
+            "startMonth": 12,
             "endYear": 2024,
+            "endMonth": 11,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -74,6 +75,71 @@
                     "icon": {
                         "assetName": "assets/icons/other/firebase.svg"
                     }
+                },
+                {
+                    "name": "Rest API's"
+                },
+                {
+                    "name": "Clean Code"
+                },
+                {
+                    "name": "Riverpod"
+                },
+                {
+                    "name": "GitLab"
+                },
+                {
+                    "name": "CI/CD"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.linkedin.com/company/ogoul-technology/",
+                    "display": "Ogoul Technologies"
+                }
+            ]
+        },
+        {
+            "role": "Mobile App Developer (Remote)",
+            "company": "InnovatedY",
+            "description": "As a Mobile Application Developer & App Publisher, I worked remotely with a global team to design, develop, and deliver high-quality mobile applications using Flutter. Additionally, I managed app publishing processes across multiple app stores, ensuring seamless release and maintenance of mobile products.",
+            "startYear": 2023,
+            "startMonth": 7,
+            "endYear": 2024,
+            "endMonth": 11,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Clean Architecture"
+                },
+                {
+                    "name": "Riverpod State-management"
+                },
+                {
+                    "name": "Google Gemini"
+                },
+                {
+                    "name": "Crashlytics"
+                },
+                {
+                    "name": "Localizations"
                 },
                 {
                     "name": "AppStore Connect"
@@ -97,9 +163,9 @@
             "company": "Metasense Technologies",
             "description": "As a skilled Flutter Developer, I played a key role in designing, developing, and maintaining mobile applications for Metasense Technologies. Utilizing expertise in Flutter and Dart, I successfully delivered high-quality mobile solutions, ensuring seamless user experiences.",
             "startYear": 2023,
-            "startMonth": 5,
+            "startMonth": 4,
             "endYear": 2024,
-            "endMonth": 5,
+            "endMonth": 1,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -121,6 +187,12 @@
                 },
                 {
                     "name": "Rest API's"
+                },
+                {
+                    "name": "Riverpod"
+                },
+                {
+                    "name": "In-App Purchases"
                 }
             ],
             "links": [
@@ -206,6 +278,48 @@
                 {
                     "url": "https://www.linkedin.com/company/app-spot/",
                     "display": "AppSpot Software Solution"
+                }
+            ]
+        },
+        {
+            "role": "Flutter Internship",
+            "company": "Last Wave Technology",
+            "description": "Working as a Flutter Developer internee, I gained hands-on experience in building cross-platform mobile applications. Collaborated on real-world projects, enhanced skills in Flutter, Dart, and contributed to UI/UX design. Developed a strong foundation in Agile methodologies and effective teamwork.",
+            "startYear": 2021,
+            "startMonth": 2,
+            "endYear": 2021,
+            "endMonth": 10,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                
+                {
+                    "name": "Flutter Widgets"
+                },
+                {
+                    "name": "Material Design & Cupertino"
+                },
+                {
+                    "name": "Responsive and Adaptive layouts"
+                },
+                {
+                    "name": "Figma & Adobe XD"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.linkedin.com/company/last-wave-technology/",
+                    "display": "Last Wave Technology"
                 }
             ]
         }
