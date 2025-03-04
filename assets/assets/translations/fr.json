@@ -39,66 +39,11 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1Cs3k_c2hVDAsPn8r56osEyMlQ6bSugVC/view?usp=sharing"
-        },
-        {
-            "languageCode": "fr",
-            "url": "https://drive.google.com/file/d/1Cs3k_c2hVDAsPn8r56osEyMlQ6bSugVC/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1ddSfWHLCnIbX93lwhb1ExIvmddhA8gI-/view?usp=sharing"
         }
     ],
     "aboutDescription": "Bienvenue dans mon portfolio ! Je suis JUNAID Ali, un développeur d'applications Flutter expérimenté, passionné par la création d'expériences mobiles intuitives et performantes. Fort d'une expertise approfondie en Flutter, Dart et gestion avancée d'état, je conçois des solutions fluides et centrées sur l'utilisateur, favorisant la croissance des entreprises. Au cours de mes 4 années d'expérience, j'ai développé une combinaison unique de compétences techniques et de vision créative, me permettant de relever des projets complexes et de transformer des idées en applications engageantes et évolutives",
     "experiences": [
-        {
-            "role": "Flutter Developer (Remote)",
-            "company": "Ogoul Technologies",
-            "description": "Travaillant en tant que développeur Flutter à distance, je conçois des applications mobiles multiplateformes de haute qualité. Je collabore avec des équipes distribuées pour mettre en œuvre des solutions évolutives en utilisant Flutter, Dart et des techniques avancées de gestion d’état. Je me concentre sur la création de conceptions UI/UX intuitives, l’intégration d’API et l’optimisation des performances des applications. Je gère efficacement les tâches dans un environnement à distance, en m'appuyant sur les méthodologies Agile et les outils de communication pour garantir une collaboration fluide et une livraison de projet dans les délais.",
-            "isPresent": true,
-            "startYear": 2024,
-            "startMonth": 12,
-            "endYear": 2024,
-            "endMonth": 11,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                },
-                {
-                    "name": "Firebase",
-                    "icon": {
-                        "assetName": "assets/icons/other/firebase.svg"
-                    }
-                },
-                {
-                    "name": "Rest API's"
-                },
-                {
-                    "name": "Clean Code"
-                },
-                {
-                    "name": "Riverpod"
-                },
-                {
-                    "name": "GitLab"
-                },
-                {
-                    "name": "CI/CD"
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://www.linkedin.com/company/ogoul-technology/",
-                    "display": "Ogoul Technologies"
-                }
-            ]
-        },
         {
             "role": "Développeur d'applications mobiles (à distance)",
             "company": "InnovatedY",
@@ -106,7 +51,7 @@
             "startYear": 2023,
             "startMonth": 7,
             "endYear": 2024,
-            "endMonth": 11,
+            "endMonth": 12,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -163,9 +108,9 @@
             "company": "Metasense Technologies",
             "description": "En tant que développeur Flutter qualifié, j'ai joué un rôle clé dans la conception, le développement et la maintenance d'applications mobiles pour Metasense Technologies. En utilisant mon expertise dans Flutter et Dart, j'ai réussi à fournir des solutions mobiles de haute qualité, garantissant des expériences utilisateur fluides.",
             "startYear": 2023,
-            "startMonth": 4,
-            "endYear": 2024,
-            "endMonth": 1,
+            "startMonth": 1,
+            "endYear": 2023,
+            "endMonth": 12,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -203,43 +148,11 @@
             ]
         },
         {
-            "role": "Développeur Flutter",
-            "company": "Software Development Hub (SDH)",
-            "description": "Chez Software Development Hub, j'ai mis à profit mon expertise dans Flutter et Dart pour concevoir, développer et déployer des solutions évolutives qui ont dépassé les attentes des clients.",
-            "startYear": 2023,
-            "startMonth": 1,
-            "endYear": 2023,
-            "endMonth": 5,
-            "technologies": [
-                {
-                    "name": "Flutter",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flutter.svg"
-                    }
-                },
-                {
-                    "name": "Dart",
-                    "icon": {
-                        "assetName": "assets/icons/other/dart.svg"
-                    }
-                },
-                {
-                    "name": "Rest API's"
-                }
-            ],
-            "links": [
-                {
-                    "url": "https://www.linkedin.com/company/sdhoﬃcial/",
-                    "display": "Software Development Hub (SDH)"
-                }
-            ]
-        },
-        {
-            "role": "Développeur front-end Flutter",
+            "role": "Développeur Flutter junior",
             "company": "AppSpot Software Solution",
-            "description": "En tant que développeur Front-end Flutter chez AppSpot Software Solution, j'ai joué un rôle central dans la conception et la mise en œuvre d'interfaces mobiles visuellement époustouflantes et conviviales pour les plates-formes Android et iOS. En utilisant mon expertise dans les outils de conception et Flutter, j'ai comblé le fossé entre la conception et le développement, en proposant des applications mobiles haute fidélité. Conceptions traduites de Figma et Adobe XD en code Flutter fonctionnel. Implémentation de mises en page réactives et adaptatives pour différentes tailles d'écran. Collaborer avec les concepteurs pour assurer l'intégrité et la cohérence de la conception",
-            "startYear": 2022,
-            "startMonth": 1,
+            "description": "En tant que développeur Flutter junior chez AppSpot Software Solution, j'ai joué un rôle central dans la conception et la mise en œuvre d'interfaces mobiles visuellement époustouflantes et conviviales pour les plates-formes Android et iOS. En utilisant mon expertise dans les outils de conception et Flutter, j'ai comblé le fossé entre la conception et le développement, en proposant des applications mobiles haute fidélité. Conceptions traduites de Figma et Adobe XD en code Flutter fonctionnel. Implémentation de mises en page réactives et adaptatives pour différentes tailles d'écran. Collaborer avec les concepteurs pour assurer l'intégrité et la cohérence de la conception",
+            "startYear": 2021,
+            "startMonth": 10,
             "endYear": 2023,
             "endMonth": 1,
             "technologies": [
@@ -282,9 +195,9 @@
             ]
         },
         {
-            "role": "Stage Flutter",
+            "role": "Stagiaire en développement d'applications mobiles",
             "company": "Last Wave Technology",
-            "description": "Travaillant en tant que stagiaire développeur Flutter, j'ai acquis une expérience pratique dans la création d'applications mobiles multiplateformes. J'ai collaboré sur des projets réels, perfectionné mes compétences en Flutter, Dart et contribué à la conception UI/UX. J'ai développé une solide base en méthodologies Agile et en travail d'équipe efficace.",
+            "description": "Travailler en tant qu'interne en développement d'applications mobiles, j'ai acquis une expérience pratique dans la création d'applications mobiles multiplateformes. J'ai collaboré sur des projets réels, perfectionné mes compétences en Flutter, Dart et contribué à la conception UI/UX. J'ai développé une solide base en méthodologies Agile et en travail d'équipe efficace.",
             "startYear": 2021,
             "startMonth": 2,
             "endYear": 2021,
