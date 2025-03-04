@@ -1,12 +1,12 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
+import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:portfolio/src/constants/sizes.dart';
 import 'package:portfolio/src/features/personal_info/domain/resume.dart';
 import 'package:portfolio/src/features/personal_info/presentation/widgets/resume_language_dialog.dart';
 import 'package:portfolio/src/localization/generated/locale_keys.g.dart';
 import 'package:portfolio/src/utils/launch_url_helper.dart';
 import 'package:portfolio/src/utils/scaffold_messenger_helper.dart';
-import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class ResumeButton extends ConsumerStatefulWidget {
   const ResumeButton({super.key, required this.resumes});
@@ -36,7 +36,7 @@ class _ResumeButtonState extends ConsumerState<ResumeButton> {
           child: OutlinedButton(
             style: OutlinedButton.styleFrom(
               backgroundColor: _isHovered
-                  ? theme.colorScheme.tertiary.withOpacity(0.1)
+                  ? theme.colorScheme.tertiary.withValues(alpha: 0.1)
                   : null,
               side: BorderSide(
                 width: _isHovered ? 2 : 1,

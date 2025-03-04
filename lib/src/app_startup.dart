@@ -8,12 +8,10 @@ import 'package:riverpod_annotation/riverpod_annotation.dart';
 part 'app_startup.g.dart';
 
 @Riverpod(keepAlive: true)
-Future<void> appStartup(AppStartupRef ref) async {
-  await Future.wait([
-    EasyLocalization.ensureInitialized(),
-    GoogleFonts.pendingFonts([GoogleFonts.nunito()]),
-  ]);
-}
+FutureOr<void> appStartup(Ref ref) => Future.wait([
+      EasyLocalization.ensureInitialized(),
+      GoogleFonts.pendingFonts([GoogleFonts.nunito()]),
+    ]);
 
 class AppStartupWidget extends ConsumerWidget {
   const AppStartupWidget({
