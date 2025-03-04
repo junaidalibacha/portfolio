@@ -21,7 +21,7 @@ jobs:
       - uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
-          flutter-version: 3.24.2
+          flutter-version: 3.29.0
           cache: true
           
       - name: Install dependencies
@@ -37,13 +37,13 @@ jobs:
         id: set_base_href
         run: |
           if [[ -z "${{ vars.CNAME }}" ]]; then
-            echo "::set-output name=base_href::/${{ github.event.repository.name }}/"
+            echo "base_href=/${{ github.event.repository.name }}/" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=base_href::/"
+            echo "base_href=/" >> $GITHUB_OUTPUT
           fi
 
       - name: Build
-        run: flutter build web --web-renderer canvaskit --release --no-tree-shake-icons --base-href "${{ steps.set_base_href.outputs.base_href }}"
+        run: flutter build web --wasm --release --no-tree-shake-icons --base-href "${{ steps.set_base_href.outputs.base_href }}"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
